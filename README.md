@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OhChanhee&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhChanhee&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OhChanhee&count_private=true&hide_border=true)](https://github.com/OhChanhee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhChanhee&hide=makefile)](https://github.com/OhChanhee)
 
 
 - 🔭 I’m currently working on ...
